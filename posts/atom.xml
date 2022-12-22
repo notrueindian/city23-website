@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on City23</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on City23</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setup: Starting Adjectives</title>
+      <link>http://example.org/posts/setup-starting-adjectives/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/setup-starting-adjectives/</guid>
+      <description>For the first step of our i&amp;rsquo;m sorry did you say street magic, I asked folks to submit adjectives that will define our city.
+The game&amp;rsquo;s rules say we need 3 adjectives - just enough to give us a sense of our city without it becoming a straitjacket. We want to discover the city as we play.
+But we received 39 submissions! So I see my job as sieving through these submissions, seeing the emergent patterns, and picking the 3 adjectives that I think are most inspiring when combined together.</description>
+    </item>
+    
+  </channel>
+</rss>

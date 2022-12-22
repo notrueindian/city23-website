@@ -1,0 +1,76 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>City23</title>
+    <description>A community city-building game</description>
+    <link>http://example.org/</link>
+    
+    <language>en</language>
+    <copyright>Copyright 2022, Ronalds Vilcins</copyright>
+    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo - gohugo.io</generator>
+    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
+    <atom:link href="https://ronaldsvilcins.com/atom.xml" rel="self" type="application/atom+xml"/>
+    
+    <item>
+      <title>Setup: Starting Adjectives</title>
+      <link>http://example.org/posts/setup-starting-adjectives/</link>
+      <description>&lt;p&gt;For the first step of our &lt;em&gt;i&amp;rsquo;m sorry did you say street magic&lt;/em&gt;, I asked folks to submit adjectives that will define our city.&lt;/p&gt;
+&lt;p&gt;The game&amp;rsquo;s rules say we need 3 adjectives - just enough to give us a sense of our city without it becoming a straitjacket. We want to discover the city as we play.&lt;/p&gt;
+&lt;p&gt;But we received 39 submissions! So I see my job as sieving through these submissions, seeing the emergent patterns, and picking the 3 adjectives that I think are most inspiring when combined together.&lt;/p&gt;
+&lt;p&gt;What patterns did I see? People are seeing a city that is ancient, crumbling, eroding, maybe even sundered or inundated. They&amp;rsquo;re seeing a city that is vertical, looming, labryinthine. They&amp;rsquo;re seeing a city that is stratified but dense, vibrant, colourful, proud, beautiful. They&amp;rsquo;re seeing something interdimensional, artificial, technomagical. Maybe its sustainable, solar, growing, or potentially alive. They&amp;rsquo;re seeing a city that is hidden or snowbound. They&amp;rsquo;re seeing a city that is under threat - besieged or occuppied or teetering on the edge of some other disaster.&lt;/p&gt;
+&lt;p&gt;This is a lot - and a city can be all of these things. And if you want to channel any of these adjectives, please go ahead. But for the purpose of clarity, here&amp;rsquo;s the three adjectives and the pitch for the city:&lt;/p&gt;
+&lt;p&gt;It is &lt;strong&gt;stratified&lt;/strong&gt;, &lt;strong&gt;clockwork&lt;/strong&gt; and &lt;strong&gt;canaled&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;What does this mean?&lt;/p&gt;
+&lt;p&gt;Imagine that when people say time is a river, they mean it literally. Imagine the river of time was routed into canals that spread through a great city. Imagine this city as tall, built upon layers and layers of different communities and neighbourhoods. Imagine these canals entered the city at the very top and then slipped and flowed all the way down through the city&amp;rsquo;s many layers until it escaped and found its way into the sea of chaos. The river of time brings odd gifts and sometimes even odder things wash up on the shores of chaos. Some say the city is a giant water clock. But people who live there just call it home.&lt;/p&gt;
+&lt;p&gt;Here are the full list of adjectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stratified&lt;/li&gt;
+&lt;li&gt;Occupied&lt;/li&gt;
+&lt;li&gt;Canaled&lt;/li&gt;
+&lt;li&gt;Crumbling&lt;/li&gt;
+&lt;li&gt;Hidden&lt;/li&gt;
+&lt;li&gt;Looming&lt;/li&gt;
+&lt;li&gt;Clockwork&lt;/li&gt;
+&lt;li&gt;Sundered&lt;/li&gt;
+&lt;li&gt;Teetering&lt;/li&gt;
+&lt;li&gt;Proud&lt;/li&gt;
+&lt;li&gt;Ancient&lt;/li&gt;
+&lt;li&gt;Labryinthe&lt;/li&gt;
+&lt;li&gt;Snowbound&lt;/li&gt;
+&lt;li&gt;Deep-space&lt;/li&gt;
+&lt;li&gt;Exotic&lt;/li&gt;
+&lt;li&gt;Dense&lt;/li&gt;
+&lt;li&gt;Vibrant&lt;/li&gt;
+&lt;li&gt;Academic&lt;/li&gt;
+&lt;li&gt;Interdimensional&lt;/li&gt;
+&lt;li&gt;Ethereal&lt;/li&gt;
+&lt;li&gt;Growing&lt;/li&gt;
+&lt;li&gt;Artificial&lt;/li&gt;
+&lt;li&gt;Solar&lt;/li&gt;
+&lt;li&gt;Alive&lt;/li&gt;
+&lt;li&gt;Vertical&lt;/li&gt;
+&lt;li&gt;Odoriferous&lt;/li&gt;
+&lt;li&gt;Colourful&lt;/li&gt;
+&lt;li&gt;Nostalgic&lt;/li&gt;
+&lt;li&gt;Technomagical&lt;/li&gt;
+&lt;li&gt;Polluted&lt;/li&gt;
+&lt;li&gt;Empyreal&lt;/li&gt;
+&lt;li&gt;Eroding&lt;/li&gt;
+&lt;li&gt;Anemoia&lt;/li&gt;
+&lt;li&gt;Besieged&lt;/li&gt;
+&lt;li&gt;Overshadowed&lt;/li&gt;
+&lt;li&gt;Secular&lt;/li&gt;
+&lt;li&gt;Elegiac&lt;/li&gt;
+&lt;li&gt;Inundated&lt;/li&gt;
+&lt;li&gt;Beautiful&lt;/li&gt;
+&lt;li&gt;Sutainable&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://example.org/posts/setup-starting-adjectives/</guid>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    
+  </channel>
+</rss>
