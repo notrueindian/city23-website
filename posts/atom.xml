@@ -2,20 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on City23</title>
-    <link>http://example.org/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on City23</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/atom.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neighborhood: Bargetown</title>
+      <link>/posts/neighbourhood-bargetown/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/neighbourhood-bargetown/</guid>
+      <description>From reader paulhayes01
+A teeming and fetid favela of hundreds of rotting barges, tied together. Houses, shops, taverns and hulks all intertwined. A place of first refuge for migrants and those fleeing from the law, or many other things.
+True Name: The Holds: Where the real rulers of Bargetown reside, often in hidden splendour. Only emerging at night to go about their business</description>
+    </item>
+    
+    <item>
+      <title>Neighborhood: Brasspool</title>
+      <link>/posts/neighbourhood-brasspool/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/neighbourhood-brasspool/</guid>
+      <description>From reader Drew
+Near the docks of the city you find the shipyards, workshops, and foundries of Brasspool. Here artisans, inventors, and engineers craft exotic airships, yachts, and submersibles for wealthy citizens, bold adventurers, and curious scientists. Here also are the rows of brick tenements housing metal workers, carpenters, and sail makers who give solid shape to innovation with their labor.
+The secret name of Brasspool is found in the ceaseless clangor of metal on metal and the susurrus of the canals.</description>
+    </item>
+    
+    <item>
+      <title>Neighborhood: Tangent</title>
+      <link>/posts/neighbourhood-tangent/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/neighbourhood-tangent/</guid>
+      <description>From reader Rob
+The neighborhood sits right next to the river and to one side on its own level. Looking at the neighborhood from higher levels there doesn&amp;rsquo;t appear to be any route into Tangent, yet people tend to find their way there, but only if they are merely wondering within the city. Once there, they always find something to do. The neighborhood is absolutely bustling with activity, but upon finishing the task they found themselves focused on upon entering, just a few steps later they find themselves back at the place they were last at outside of Tangent.</description>
+    </item>
+    
+    <item>
+      <title>Neighborhood: The Eddies</title>
+      <link>/posts/neighbourhood-eddies/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/neighbourhood-eddies/</guid>
+      <description>From reader geanawq
+In this neighbourhood the streams of time have formed a whirlpool, and the area exists in a cyclical state, rotating through different functions/styles throughout the day.</description>
+    </item>
+    
+    <item>
+      <title>Neighborhood: The Warrens</title>
+      <link>/posts/neighbourhood-warrens/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/neighbourhood-warrens/</guid>
+      <description>From reader Jesse
+New construction, natural erosion, magical interference, for whatever reason sometimes the river of time shifts its course, leaving dry or damp canal beds empty. This network of ditches and tunnels has become home to the poor and downtrodden of the city. Digging their homes and businesses into the sides of the canals the often unearthed treasures of the past and future, though most of what was there to find has long been ecscavated.</description>
+    </item>
+    
+    <item>
+      <title>Neighborhood: Waste Water Treatment Zone</title>
+      <link>/posts/neighbourhood-wwtz/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/neighbourhood-wwtz/</guid>
+      <description>From reader Zach Brink
+WWTZ - Waste Water Treatment Zone
+Pools and pipes. The mingling smells of sewage and sterility. Uniformed workers in hard hats, goggles, and rubber waders. Takes in brown water and makes it gray. Steam jets, winding paths, man-made fog. Pools of red and yellow light cast from safety instruments.
+True name: The Sieve</description>
+    </item>
+    
+    <item>
+      <title>Setup: Names</title>
+      <link>/posts/setup-names/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/setup-names/</guid>
+      <description>TBD</description>
+    </item>
+    
     <item>
       <title>Setup: Starting Adjectives</title>
-      <link>http://example.org/posts/setup-starting-adjectives/</link>
+      <link>/posts/setup-starting-adjectives/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/setup-starting-adjectives/</guid>
+      <guid>/posts/setup-starting-adjectives/</guid>
       <description>For the first step of our i&amp;rsquo;m sorry did you say street magic, I asked folks to submit adjectives that will define our city.
 The game&amp;rsquo;s rules say we need 3 adjectives - just enough to give us a sense of our city without it becoming a straitjacket. We want to discover the city as we play.
-But we received 39 submissions! So I see my job as sieving through these submissions, seeing the emergent patterns, and picking the 3 adjectives that I think are most inspiring when combined together.</description>
+But we received more than 40 submissions! So I see my job as sieving through these submissions, seeing the emergent patterns, and picking the 3 adjectives that I think are most inspiring when combined together.</description>
     </item>
     
   </channel>
