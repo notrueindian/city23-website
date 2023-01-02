@@ -3,44 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/neighborhood/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/neighbourhood-bargetown/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/neighbourhood-brasspool/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/neighbourhood-tangent/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/neighbourhood-eddies/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/neighbourhood-warrens/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/neighbourhood-wwtz/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/setup/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/setup-names/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/setup-starting-adjectives/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/setup/</loc>
-    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/setup-starting-adjectives/</loc>
-    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
+    <loc>/organized-list/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/organized-list/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tagcloud/</loc>
+    <loc>/tagcloud/</loc>
   </url>
   
 </urlset>

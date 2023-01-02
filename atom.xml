@@ -3,21 +3,104 @@
     
     <title>City23</title>
     <description>A community city-building game</description>
-    <link>http://example.org/</link>
+    <link></link>
     
     <language>en</language>
-    <copyright>Copyright 2022, Ronalds Vilcins</copyright>
-    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>Copyright 2023, Ronalds Vilcins</copyright>
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
     <atom:link href="https://ronaldsvilcins.com/atom.xml" rel="self" type="application/atom+xml"/>
     
     <item>
+      <title>Neighborhood: Bargetown</title>
+      <link>/posts/neighbourhood-bargetown/</link>
+      <description>&lt;p&gt;From reader &lt;a href=&#34;https://substack.com/profile/2265834-paulhayes01&#34;&gt;paulhayes01&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A teeming and fetid favela of hundreds of rotting barges, tied together. Houses, shops, taverns and hulks all intertwined. A place of first refuge for migrants and those fleeing from the law, or many other things.&lt;/p&gt;
+&lt;p&gt;True Name: The Holds: Where the real rulers of Bargetown reside, often in hidden splendour. Only emerging at night to go about their business&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>/posts/neighbourhood-bargetown/</guid>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Neighborhood: Brasspool</title>
+      <link>/posts/neighbourhood-brasspool/</link>
+      <description>&lt;p&gt;From reader &lt;a href=&#34;https://substack.com/profile/27043766-drew&#34;&gt;Drew&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Near the docks of the city you find the shipyards, workshops, and foundries of Brasspool. Here artisans, inventors, and engineers craft exotic airships, yachts, and submersibles for wealthy citizens, bold adventurers, and curious scientists. Here also are the rows of brick tenements housing metal workers, carpenters, and sail makers who give solid shape to innovation with their labor.&lt;/p&gt;
+&lt;p&gt;The secret name of Brasspool is found in the ceaseless clangor of metal on metal and the susurrus of the canals.&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>/posts/neighbourhood-brasspool/</guid>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Neighborhood: Tangent</title>
+      <link>/posts/neighbourhood-tangent/</link>
+      <description>&lt;p&gt;From reader &lt;a href=&#34;https://substack.com/profile/100223932-rob&#34;&gt;Rob&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The neighborhood sits right next to the river and to one side on its own level. Looking at the neighborhood from higher levels there doesn&amp;rsquo;t appear to be any route into Tangent, yet people tend to find their way there, but only if they are merely wondering within the city. Once there, they always find something to do. The neighborhood is absolutely bustling with activity, but upon finishing the task they found themselves focused on upon entering, just a few steps later they find themselves back at the place they were last at outside of Tangent. Interestingly, it appears that no time will have passed between leaving and returning.&lt;/p&gt;
+&lt;p&gt;Those that live in Tangent were those that had no real home or job within the city when they entered, but find life in Tangent perfect for themselves. There are always lots of customers for their shops, and plenty of down time as well to enjoy many of the entertainment venues scattered around Tangent.&lt;/p&gt;
+&lt;p&gt;No one really knows when Tangent was started, or by whom. The oldest families in the city tell the same story&amp;ndash;it&amp;rsquo;s always been there.&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>/posts/neighbourhood-tangent/</guid>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Neighborhood: The Eddies</title>
+      <link>/posts/neighbourhood-eddies/</link>
+      <description>&lt;p&gt;From reader &lt;a href=&#34;https://substack.com/profile/88190251-geanawq&#34;&gt;geanawq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this neighbourhood the streams of time have formed a whirlpool, and the area exists in a cyclical state, rotating through different functions/styles throughout the day.&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>/posts/neighbourhood-eddies/</guid>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Neighborhood: The Warrens</title>
+      <link>/posts/neighbourhood-warrens/</link>
+      <description>&lt;p&gt;From reader &lt;a href=&#34;https://substack.com/profile/3648518-jesse-a&#34;&gt;Jesse&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;New construction, natural erosion, magical interference, for whatever reason sometimes the river of time shifts its course, leaving dry or damp canal beds empty. This network of ditches and tunnels has become home to the poor and downtrodden of the city. Digging their homes and businesses into the sides of the canals the often unearthed treasures of the past and future, though most of what was there to find has long been ecscavated. These peculiar anachronism, when too complicated or large to be sold to or stolen by the city&amp;rsquo;s elites have become part of the architechture of the Warrens.&lt;/p&gt;
+&lt;p&gt;True name: Deep Burroughs, shadowed anachronism.&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>/posts/neighbourhood-warrens/</guid>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Neighborhood: Waste Water Treatment Zone</title>
+      <link>/posts/neighbourhood-wwtz/</link>
+      <description>&lt;p&gt;From reader &lt;a href=&#34;https://substack.com/profile/3647723-zach-brink&#34;&gt;Zach Brink&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WWTZ - Waste Water Treatment Zone&lt;/p&gt;
+&lt;p&gt;Pools and pipes. The mingling smells of sewage and sterility. Uniformed workers in hard hats, goggles, and rubber waders. Takes in brown water and makes it gray. Steam jets, winding paths, man-made fog. Pools of red and yellow light cast from safety instruments.&lt;/p&gt;
+&lt;p&gt;True name: The Sieve&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>/posts/neighbourhood-wwtz/</guid>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Setup: Names</title>
+      <link>/posts/setup-names/</link>
+      <description>&lt;p&gt;TBD&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>/posts/setup-names/</guid>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
       <title>Setup: Starting Adjectives</title>
-      <link>http://example.org/posts/setup-starting-adjectives/</link>
+      <link>/posts/setup-starting-adjectives/</link>
       <description>&lt;p&gt;For the first step of our &lt;em&gt;i&amp;rsquo;m sorry did you say street magic&lt;/em&gt;, I asked folks to submit adjectives that will define our city.&lt;/p&gt;
 &lt;p&gt;The game&amp;rsquo;s rules say we need 3 adjectives - just enough to give us a sense of our city without it becoming a straitjacket. We want to discover the city as we play.&lt;/p&gt;
-&lt;p&gt;But we received 39 submissions! So I see my job as sieving through these submissions, seeing the emergent patterns, and picking the 3 adjectives that I think are most inspiring when combined together.&lt;/p&gt;
+&lt;p&gt;But we received more than 40 submissions! So I see my job as sieving through these submissions, seeing the emergent patterns, and picking the 3 adjectives that I think are most inspiring when combined together.&lt;/p&gt;
 &lt;p&gt;What patterns did I see? People are seeing a city that is ancient, crumbling, eroding, maybe even sundered or inundated. They&amp;rsquo;re seeing a city that is vertical, looming, labryinthine. They&amp;rsquo;re seeing a city that is stratified but dense, vibrant, colourful, proud, beautiful. They&amp;rsquo;re seeing something interdimensional, artificial, technomagical. Maybe its sustainable, solar, growing, or potentially alive. They&amp;rsquo;re seeing a city that is hidden or snowbound. They&amp;rsquo;re seeing a city that is under threat - besieged or occuppied or teetering on the edge of some other disaster.&lt;/p&gt;
 &lt;p&gt;This is a lot - and a city can be all of these things. And if you want to channel any of these adjectives, please go ahead. But for the purpose of clarity, here&amp;rsquo;s the three adjectives and the pitch for the city:&lt;/p&gt;
 &lt;p&gt;It is &lt;strong&gt;stratified&lt;/strong&gt;, &lt;strong&gt;clockwork&lt;/strong&gt; and &lt;strong&gt;canaled&lt;/strong&gt;.&lt;/p&gt;
@@ -68,7 +151,7 @@
 &lt;/ul&gt;
 </description>
       <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>http://example.org/posts/setup-starting-adjectives/</guid>
+      <guid>/posts/setup-starting-adjectives/</guid>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
     </item>
     
