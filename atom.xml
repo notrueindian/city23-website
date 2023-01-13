@@ -1,173 +1,112 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    
-    <title>City23: Immoria</title>
-    <description>A community city-building game</description>
-    <link></link>
-    
-    <language>en</language>
-    <copyright>Copyright 2023, Ronalds Vilcins</copyright>
-    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <generator>Hugo - gohugo.io</generator>
-    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
-    <atom:link href="https://ronaldsvilcins.com/atom.xml" rel="self" type="application/atom+xml"/>
-    
-    <item>
-      <title>Neighborhood: Bargetown</title>
-      <link>/posts/neighbourhood-bargetown/</link>
-      <description>&lt;p&gt;A teeming and fetid favela of hundreds of rotting barges, tied together. Houses, shops, taverns and hulks all intertwined. A place of first refuge for migrants and those fleeing from the law, or many other things.&lt;/p&gt;
-&lt;p&gt;True Name: The Holds: Where the real rulers of Bargetown reside, often in hidden splendour. Only emerging at night to go about their business&lt;/p&gt;
-&lt;p&gt;(From reader &lt;a href=&#34;https://substack.com/profile/2265834-paulhayes01&#34;&gt;paulhayes01&lt;/a&gt;)&lt;/p&gt;
-</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>/posts/neighbourhood-bargetown/</guid>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-      <title>Neighborhood: Brasspool</title>
-      <link>/posts/neighbourhood-brasspool/</link>
-      <description>&lt;p&gt;Near the docks of the city you find the shipyards, workshops, and foundries of Brasspool. Here artisans, inventors, and engineers craft exotic airships, yachts, and submersibles for wealthy citizens, bold adventurers, and curious scientists. Here also are the rows of brick tenements housing metal workers, carpenters, and sail makers who give solid shape to innovation with their labor.&lt;/p&gt;
-&lt;p&gt;The secret name of Brasspool is found in the ceaseless clangor of metal on metal and the susurrus of the canals.&lt;/p&gt;
-&lt;p&gt;(From reader &lt;a href=&#34;https://substack.com/profile/27043766-drew&#34;&gt;Drew&lt;/a&gt;)&lt;/p&gt;
-</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>/posts/neighbourhood-brasspool/</guid>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-      <title>Neighborhood: Tangent</title>
-      <link>/posts/neighbourhood-tangent/</link>
-      <description>&lt;p&gt;The neighborhood sits right next to the river and to one side on its own level. Looking at the neighborhood from higher levels there doesn&amp;rsquo;t appear to be any route into Tangent, yet people tend to find their way there, but only if they are merely wondering within the city. Once there, they always find something to do. The neighborhood is absolutely bustling with activity, but upon finishing the task they found themselves focused on upon entering, just a few steps later they find themselves back at the place they were last at outside of Tangent. Interestingly, it appears that no time will have passed between leaving and returning.&lt;/p&gt;
-&lt;p&gt;Those that live in Tangent were those that had no real home or job within the city when they entered, but find life in Tangent perfect for themselves. There are always lots of customers for their shops, and plenty of down time as well to enjoy many of the entertainment venues scattered around Tangent.&lt;/p&gt;
-&lt;p&gt;No one really knows when Tangent was started, or by whom. The oldest families in the city tell the same story&amp;ndash;it&amp;rsquo;s always been there.&lt;/p&gt;
-&lt;p&gt;(From reader &lt;a href=&#34;https://substack.com/profile/100223932-rob&#34;&gt;Rob&lt;/a&gt;)&lt;/p&gt;
-</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>/posts/neighbourhood-tangent/</guid>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-      <title>Neighborhood: The Eddies</title>
-      <link>/posts/neighbourhood-eddies/</link>
-      <description>&lt;p&gt;In this neighbourhood the streams of time have formed a whirlpool, and the area exists in a cyclical state, rotating through different functions/styles throughout the day.&lt;/p&gt;
-&lt;p&gt;(From reader &lt;a href=&#34;https://substack.com/profile/88190251-geanawq&#34;&gt;geanawq&lt;/a&gt;)&lt;/p&gt;
-</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>/posts/neighbourhood-eddies/</guid>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-      <title>Neighborhood: The Warrens</title>
-      <link>/posts/neighbourhood-warrens/</link>
-      <description>&lt;p&gt;New construction, natural erosion, magical interference, for whatever reason sometimes the river of time shifts its course, leaving dry or damp canal beds empty. This network of ditches and tunnels has become home to the poor and downtrodden of the city. Digging their homes and businesses into the sides of the canals the often unearthed treasures of the past and future, though most of what was there to find has long been ecscavated. These peculiar anachronism, when too complicated or large to be sold to or stolen by the city&amp;rsquo;s elites have become part of the architechture of the Warrens.&lt;/p&gt;
-&lt;p&gt;True name: Deep Burroughs, shadowed anachronism.&lt;/p&gt;
-&lt;p&gt;(From reader &lt;a href=&#34;https://substack.com/profile/3648518-jesse-a&#34;&gt;Jesse&lt;/a&gt;)&lt;/p&gt;
-</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>/posts/neighbourhood-warrens/</guid>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-      <title>Neighborhood: Waste Water Treatment Zone</title>
-      <link>/posts/neighbourhood-wwtz/</link>
-      <description>&lt;p&gt;WWTZ or Waste Water Treatment Zone&lt;/p&gt;
-&lt;p&gt;Pools and pipes. The mingling smells of sewage and sterility. Uniformed workers in hard hats, goggles, and rubber waders. Takes in brown water and makes it gray. Steam jets, winding paths, man-made fog. Pools of red and yellow light cast from safety instruments.&lt;/p&gt;
-&lt;p&gt;True name: The Sieve&lt;/p&gt;
-&lt;p&gt;(From reader &lt;a href=&#34;https://substack.com/profile/3647723-zach-brink&#34;&gt;Zach Brink&lt;/a&gt;)&lt;/p&gt;
-</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>/posts/neighbourhood-wwtz/</guid>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-      <title>Setup: Names</title>
-      <link>/posts/setup-names/</link>
-      <description>&lt;p&gt;I asked readers for suggestions of names and we get some really interesting ones. One answer from reader, Aaron, reminded me about something important:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A city&amp;rsquo;s names - Nham Sin by the old pump-guard families down in the deep, Khim Sin-har by the brass lords of the upper strata, Turnwater by the traders of the night roads, Trickstream by the knaves of the dusklight eaves, Hanam by the records of the empire of the dead.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Our city has got many names! Obviously! And in some sense, the more names the better. But we still needed to pick one name for a couple reasons. One, because there is probably an official name for the city and two, the more important reason, so it’s easy for us to refer to the city without being confused.&lt;/p&gt;
-&lt;p&gt;So I put out a shortlist of 5 and took a vote (Substack limits polls to 5 choices, there were other great ones).&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Delta&lt;/strong&gt;, a great name from reader Alex that is “both the landmass that forms at the mouth of a river as it meets the sea and the symbol for change over time”.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Clepsydra&lt;/strong&gt;, from Charles is Greek for water clock.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Chronourcleftis&lt;/strong&gt;, from Ron which sorta means “thief of time” in Greek.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Clog Uisce,&lt;/strong&gt; from Boyd, which is Irish Gaelic for water clock.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Immoria&lt;/strong&gt;, from Preston.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;And the winner of the poll was&amp;hellip; &lt;strong&gt;Immoria!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Looking forward to building out the city of Immoria together.&lt;/p&gt;
-</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>/posts/setup-names/</guid>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-    </item>
-    
-    <item>
-      <title>Setup: Starting Adjectives</title>
-      <link>/posts/setup-starting-adjectives/</link>
-      <description>&lt;p&gt;For the first step of our &lt;em&gt;i&amp;rsquo;m sorry did you say street magic&lt;/em&gt;, I asked folks to submit adjectives that will define our city.&lt;/p&gt;
-&lt;p&gt;The game&amp;rsquo;s rules say we need 3 adjectives - just enough to give us a sense of our city without it becoming a straitjacket. We want to discover the city as we play.&lt;/p&gt;
-&lt;p&gt;But we received more than 40 submissions! So I see my job as sieving through these submissions, seeing the emergent patterns, and picking the 3 adjectives that I think are most inspiring when combined together.&lt;/p&gt;
-&lt;p&gt;What patterns did I see? People are seeing a city that is ancient, crumbling, eroding, maybe even sundered or inundated. They&amp;rsquo;re seeing a city that is vertical, looming, labryinthine. They&amp;rsquo;re seeing a city that is stratified but dense, vibrant, colourful, proud, beautiful. They&amp;rsquo;re seeing something interdimensional, artificial, technomagical. Maybe its sustainable, solar, growing, or potentially alive. They&amp;rsquo;re seeing a city that is hidden or snowbound. They&amp;rsquo;re seeing a city that is under threat - besieged or occuppied or teetering on the edge of some other disaster.&lt;/p&gt;
-&lt;p&gt;This is a lot - and a city can be all of these things. And if you want to channel any of these adjectives, please go ahead. But for the purpose of clarity, here&amp;rsquo;s the three adjectives and the pitch for the city:&lt;/p&gt;
-&lt;p&gt;It is &lt;strong&gt;stratified&lt;/strong&gt;, &lt;strong&gt;clockwork&lt;/strong&gt; and &lt;strong&gt;canaled&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;What does this mean?&lt;/p&gt;
-&lt;p&gt;Imagine that when people say time is a river, they mean it literally. Imagine the river of time was routed into canals that spread through a great city. Imagine this city as tall, built upon layers and layers of different communities and neighbourhoods. Imagine these canals entered the city at the very top and then slipped and flowed all the way down through the city&amp;rsquo;s many layers until it escaped and found its way into the sea of chaos. The river of time brings odd gifts and sometimes even odder things wash up on the shores of chaos. Some say the city is a giant water clock. But people who live there just call it home.&lt;/p&gt;
-&lt;p&gt;Here are the full list of adjectives:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Stratified&lt;/li&gt;
-&lt;li&gt;Occupied&lt;/li&gt;
-&lt;li&gt;Canaled&lt;/li&gt;
-&lt;li&gt;Crumbling&lt;/li&gt;
-&lt;li&gt;Hidden&lt;/li&gt;
-&lt;li&gt;Looming&lt;/li&gt;
-&lt;li&gt;Clockwork&lt;/li&gt;
-&lt;li&gt;Sundered&lt;/li&gt;
-&lt;li&gt;Teetering&lt;/li&gt;
-&lt;li&gt;Proud&lt;/li&gt;
-&lt;li&gt;Ancient&lt;/li&gt;
-&lt;li&gt;Labryinthe&lt;/li&gt;
-&lt;li&gt;Snowbound&lt;/li&gt;
-&lt;li&gt;Deep-space&lt;/li&gt;
-&lt;li&gt;Exotic&lt;/li&gt;
-&lt;li&gt;Dense&lt;/li&gt;
-&lt;li&gt;Vibrant&lt;/li&gt;
-&lt;li&gt;Academic&lt;/li&gt;
-&lt;li&gt;Interdimensional&lt;/li&gt;
-&lt;li&gt;Ethereal&lt;/li&gt;
-&lt;li&gt;Growing&lt;/li&gt;
-&lt;li&gt;Artificial&lt;/li&gt;
-&lt;li&gt;Solar&lt;/li&gt;
-&lt;li&gt;Alive&lt;/li&gt;
-&lt;li&gt;Vertical&lt;/li&gt;
-&lt;li&gt;Odoriferous&lt;/li&gt;
-&lt;li&gt;Colourful&lt;/li&gt;
-&lt;li&gt;Nostalgic&lt;/li&gt;
-&lt;li&gt;Technomagical&lt;/li&gt;
-&lt;li&gt;Polluted&lt;/li&gt;
-&lt;li&gt;Empyreal&lt;/li&gt;
-&lt;li&gt;Eroding&lt;/li&gt;
-&lt;li&gt;Anemoia&lt;/li&gt;
-&lt;li&gt;Besieged&lt;/li&gt;
-&lt;li&gt;Overshadowed&lt;/li&gt;
-&lt;li&gt;Secular&lt;/li&gt;
-&lt;li&gt;Elegiac&lt;/li&gt;
-&lt;li&gt;Inundated&lt;/li&gt;
-&lt;li&gt;Beautiful&lt;/li&gt;
-&lt;li&gt;Sutainable&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
-      <guid>/posts/setup-starting-adjectives/</guid>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>City23: Immoria</title><description>A community city-building game</description><link/><language>en</language><copyright>NA</copyright><lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><generator>Hugo - gohugo.io</generator><docs>http://cyber.harvard.edu/rss/rss.html</docs><atom:link href="/atom.xml" rel="self" type="application/atom+xml"/><item><title>Landmark: Crowder's Chowders</title><link>/2023/01/13/landmark-cc/</link><description>&lt;p>As the river shifts, whole ecosystems of clams and unfamiliar mollusks are exposed. The Crowder family has followed these shifting waterways for generations, plucking the freshest bivalves and trivalves from their sandy homes before they go from mollusk to dry husk. Mixed with hydroponically grown veggies and the city&amp;rsquo;s freshest cream, Crowder&amp;rsquo;s Chowders give even the couriers of Immoria&amp;rsquo;s wealthiest citizens reason to slum it in the Warrens until the ladle hits the bottom of the pot.&lt;/p>
+&lt;p>Neighborhood: The Warrens
+Address: Their operation is mobile, so if you want a cup, you best find the river and follow your nose.&lt;/p>
+&lt;p>True name: River milk&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/3647723-zach-brink">Zach&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2023/01/13/landmark-cc/</guid><pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate></item><item><title>Landmark: Sally Forth's</title><link>/2023/01/13/landmark-sally-forths/</link><description>&lt;p>In the burned out remains of a Gear Ship dry dock the copper paneled pavillion tent covers up the burned walls and during inclement weather the dining area. The cafetiera style eating hall uses long planks of slightly burned wood as tables with huge gear teeth for seating. The food is plain fair of hearty soups cheap ale and its specialty a mixed citrus oatmeal mash that sailors believe keeps them from the sea shakes.&lt;/p>
+&lt;p>Neighborhood: Brasspool&lt;/p>
+&lt;p>Address: Just past the Wheat Block Granary on the far side of the north dock.&lt;/p>
+&lt;p>True Name: The name is hidden in the sound of dozen languages spoken in true enjoyment of a good meal&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/23655377-jackblackisback">Jackblackisback&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2023/01/13/landmark-sally-forths/</guid><pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate></item><item><title>Landmark: The Dough/The Rise/The Bake/The Bread</title><link>/2023/01/13/landmark-the-bake/</link><description>&lt;p>This bakery follows the cyclical nature of the neighborhood through the process of baking. Changing in name, appearance, menu, and smells throughout each day, this bakery is well-known for its delicious, lovingly crafted baked goods. Locals have learned which foods are available during which cycles and make sure to stop by as soon as cookies, cakes, pastries, breads, and more come out of the oven. Despite its popularity, there have been a few complaints about the crowds that tend to form outside when it is The Bake; people linger to enjoy the warmth radiating off the building and the delicious smells emanating from inside, even if they aren&amp;rsquo;t buying anything.&lt;/p>
+&lt;p>Neighborhood: The Eddies&lt;/p>
+&lt;p>Address: On the corner of two busy streets in a shopping district&lt;/p>
+&lt;p>True name: The simple joy in combining yeast, flour, water, and salt to feed your people&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/103316400-rhi">Rhi&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2023/01/13/landmark-the-bake/</guid><pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate></item><item><title>Landmark: The Filthy Lilt</title><link>/2023/01/13/landmark-filty-lilt/</link><description>&lt;p>Song, music, stories, and noise in general can be heard coming from the great building that started its life as a large mill at the end of Broadway - the main road that runs through Tangent. The mill and tavern sits securely at the river&amp;rsquo;s edge. Its massive water wheel always spinning as the river passes by. Those on the other side of the river only ever hear the slow creaking of the turning wheel, and the noise from the massive building is only a barely audible murmur that sounds as if it is originating within the hearer&amp;rsquo;s head rather than from the building across the water. Just as the smells of the various meals being prepared stir long forgotten fleeting memories with no real source.&lt;/p>
+&lt;p>Inside the tavern, there is always a musician, storyteller, or performer of some sort entertaining from the small stage positioned along the wall opposite the water wheel. It is rare for any given performer to appear with any regularity, but the guests are never wanting for some form of entertainment.&lt;/p>
+&lt;p>The various servers are always busy serving guests at all hours of the day. Every meal comes with a small loaf of freshly baked bread of whatever flavor happened to tickle the baker&amp;rsquo;s fancy at the time. And the building itself is always surrounded by mouth watering smells that tug at the stomach of anyone that ventures close to it. Some guests stay the night, but most only come for a meal and a show before stepping outside and finding themselves back in Immoria at the point they had found their way into Tangent.&lt;/p>
+&lt;p>Behind the building-length bar is the kitchen and below is the great grain mill and the stores of raw grains waiting to be ground along with the finished flours and meals waiting to be transported to various customers around Tangent.&lt;/p>
+&lt;p>At the back of the kitchen is the door to the backyard with its numerous drying racks with curing meats, smokers and grills preparing various meats for the guests, and a modest sized garden with various vegetables used to supplement the imported vegetables that occasionally make it to the tavern.&lt;/p>
+&lt;p>Next to the door is a line of ovens used to keep the fresh loaves of bread in full supply.&lt;/p>
+&lt;p>A small staircase in the kitchen leads down to the mill as well as up to the home of the owner and his family.&lt;/p>
+&lt;p>Along the front wall of the main room is a small staircase that leads up to the handful of typically vacant guestrooms. Obviously built as an afterthought as the partially block some of the large windows that line the front of the building.&lt;/p>
+&lt;p>Neighborhood: Tangent&lt;/p>
+&lt;p>Address: At the river&amp;rsquo;s edge and the end of Broadway.&lt;/p>
+&lt;p>True Name: It had a name once, but it has since been forgotten; although, when pressed the owner sometimes recalls it, but it is only a fleeting thought that stays stuck to the tip of his tongue.&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/100223932-rob">Rob&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2023/01/13/landmark-filty-lilt/</guid><pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate></item><item><title>Landmark: The Gong</title><link>/2023/01/13/landmark-gong/</link><description>&lt;p>The gong, The Dinnerbell-ring, That blasted nuisance&lt;/p>
+&lt;p>The inventors of Brasspool are notorious for neglecting good habits in pursuit of their clockwork dreams. So, a health conscious inventor created the gong, a brass obelisk that when struck would send out ultrasonic waves reminding all it was time to eat. Unfortunately this works no matter how recently you have eaten, so it quickly became open to abuse by nefarious restauranteurs and muffin-wives. The watch have had to post a guard to keep troublemakers at bay and the vomitoria from over-use.&lt;/p>
+&lt;p>Neighbourhood: Brasspool&lt;/p>
+&lt;p>Address: The gong is to be found in a sunken recess in the middle of an overgrown park, now neglected but once celebrating some sort of victory or event. This makes it hard to police as some cunning rascal is always sneaking past to start a new rush hour for the local food trucks.&lt;/p>
+&lt;p>True name: The ache of salivation&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/60192903-scott-beattie">Scott&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2023/01/13/landmark-gong/</guid><pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate></item><item><title>Landmark: The Shuttered Lantern</title><link>/2023/01/13/landmark-shuttered-lantern/</link><description>&lt;p>The Shuttered Lantern is a favorite haunt of people who get up early and stay up late. It&amp;rsquo;s only open when the sun isn&amp;rsquo;t up - and there are plenty of rumors about why - and so it caters to dockworkers, students, artists, artisans, and other people who tend to find their leisure in the dark hours. The beer is middling quality, middling price. But the food! The food is exquisite. People say it&amp;rsquo;s the only place to get something that tastes like home, wherever your home might be. Somehow biting into one of the buns makes you think of your grandma, the one you liked, even if she never made a bun in her life. The kitchen is wreathed in secrecy, and the proprietor keeps it tightly locked most of the time, only adding to the mystery of how they make food that tastes exactly like you need it to.&lt;/p>
+&lt;p>Neighborhood: Brasspool&lt;/p>
+&lt;p>Address: A modestly sized pub, tucked in a side street just off a main drag. Not hard to find if you know what you&amp;rsquo;re looking for, but it doesn&amp;rsquo;t catch the eye.&lt;/p>
+&lt;p>True name: The slight shimmer in the eye when you feel at home after a long, long time away.&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/10957-misha">misha&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2023/01/13/landmark-shuttered-lantern/</guid><pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate></item><item><title>Landmark: The Spore Market</title><link>/2023/01/13/landmark-spore-market/</link><description>&lt;p>Deep under the neighborhood of the Warrens are ancient, damp tunnels, home to the region&amp;rsquo;s mushroom farms. These farms provide bushels of wholesome, flavorful mushrooms to the central neighborhood Spore Market. But in the odder corners of the Warrens, under the influence of entombed, anachronistic relics, less wholesome, but far more interesting, fungi are available.&lt;/p>
+&lt;p>The true name of the Spore Market lies in the smell of damp earth, and the irrepressible love of life found in the people of the Warrens.&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/27043766-drew">Drew&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2023/01/13/landmark-spore-market/</guid><pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate></item><item><title>Neighborhood: Bargetown</title><link>/2022/12/30/neighbourhood-bargetown/</link><description>&lt;p>A teeming and fetid favela of hundreds of rotting barges, tied together. Houses, shops, taverns and hulks all intertwined. A place of first refuge for migrants and those fleeing from the law, or many other things.&lt;/p>
+&lt;p>True Name: The Holds: Where the real rulers of Bargetown reside, often in hidden splendour. Only emerging at night to go about their business&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/2265834-paulhayes01">paulhayes01&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2022/12/30/neighbourhood-bargetown/</guid><pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate></item><item><title>Neighborhood: Brasspool</title><link>/2022/12/30/neighbourhood-brasspool/</link><description>&lt;p>Near the docks of the city you find the shipyards, workshops, and foundries of Brasspool. Here artisans, inventors, and engineers craft exotic airships, yachts, and submersibles for wealthy citizens, bold adventurers, and curious scientists. Here also are the rows of brick tenements housing metal workers, carpenters, and sail makers who give solid shape to innovation with their labor.&lt;/p>
+&lt;p>The secret name of Brasspool is found in the ceaseless clangor of metal on metal and the susurrus of the canals.&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/27043766-drew">Drew&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2022/12/30/neighbourhood-brasspool/</guid><pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate></item><item><title>Neighborhood: Tangent</title><link>/2022/12/30/neighbourhood-tangent/</link><description>&lt;p>The neighborhood sits right next to the river and to one side on its own level. Looking at the neighborhood from higher levels there doesn&amp;rsquo;t appear to be any route into Tangent, yet people tend to find their way there, but only if they are merely wondering within the city. Once there, they always find something to do. The neighborhood is absolutely bustling with activity, but upon finishing the task they found themselves focused on upon entering, just a few steps later they find themselves back at the place they were last at outside of Tangent. Interestingly, it appears that no time will have passed between leaving and returning.&lt;/p>
+&lt;p>Those that live in Tangent were those that had no real home or job within the city when they entered, but find life in Tangent perfect for themselves. There are always lots of customers for their shops, and plenty of down time as well to enjoy many of the entertainment venues scattered around Tangent.&lt;/p>
+&lt;p>No one really knows when Tangent was started, or by whom. The oldest families in the city tell the same story&amp;ndash;it&amp;rsquo;s always been there.&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/100223932-rob">Rob&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2022/12/30/neighbourhood-tangent/</guid><pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate></item><item><title>Neighborhood: The Eddies</title><link>/2022/12/30/neighbourhood-eddies/</link><description>&lt;p>In this neighbourhood the streams of time have formed a whirlpool, and the area exists in a cyclical state, rotating through different functions/styles throughout the day.&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/88190251-geanawq">geanawq&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2022/12/30/neighbourhood-eddies/</guid><pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate></item><item><title>Neighborhood: The Warrens</title><link>/2022/12/30/neighbourhood-warrens/</link><description>&lt;p>New construction, natural erosion, magical interference, for whatever reason sometimes the river of time shifts its course, leaving dry or damp canal beds empty. This network of ditches and tunnels has become home to the poor and downtrodden of the city. Digging their homes and businesses into the sides of the canals the often unearthed treasures of the past and future, though most of what was there to find has long been ecscavated. These peculiar anachronism, when too complicated or large to be sold to or stolen by the city&amp;rsquo;s elites have become part of the architechture of the Warrens.&lt;/p>
+&lt;p>True name: Deep Burroughs, shadowed anachronism.&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/3648518-jesse-a">Jesse&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2022/12/30/neighbourhood-warrens/</guid><pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate></item><item><title>Neighborhood: Waste Water Treatment Zone</title><link>/2022/12/30/neighbourhood-wwtz/</link><description>&lt;p>WWTZ or Waste Water Treatment Zone&lt;/p>
+&lt;p>Pools and pipes. The mingling smells of sewage and sterility. Uniformed workers in hard hats, goggles, and rubber waders. Takes in brown water and makes it gray. Steam jets, winding paths, man-made fog. Pools of red and yellow light cast from safety instruments.&lt;/p>
+&lt;p>True name: The Sieve&lt;/p>
+&lt;p>(From reader &lt;a href="https://substack.com/profile/3647723-zach-brink">Zach Brink&lt;/a>)&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2022/12/30/neighbourhood-wwtz/</guid><pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate></item><item><title>Setup: Names</title><link>/2022/12/29/setup-names/</link><description>&lt;p>I asked readers for suggestions of names and we get some really interesting ones. One answer from reader, Aaron, reminded me about something important:&lt;/p>
+&lt;blockquote>
+&lt;p>A city&amp;rsquo;s names - Nham Sin by the old pump-guard families down in the deep, Khim Sin-har by the brass lords of the upper strata, Turnwater by the traders of the night roads, Trickstream by the knaves of the dusklight eaves, Hanam by the records of the empire of the dead.&lt;/p>
+&lt;/blockquote>
+&lt;p>Our city has got many names! Obviously! And in some sense, the more names the better. But we still needed to pick one name for a couple reasons. One, because there is probably an official name for the city and two, the more important reason, so it’s easy for us to refer to the city without being confused.&lt;/p>
+&lt;p>So I put out a shortlist of 5 and took a vote (Substack limits polls to 5 choices, there were other great ones).&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Delta&lt;/strong>, a great name from reader Alex that is “both the landmass that forms at the mouth of a river as it meets the sea and the symbol for change over time”.&lt;/li>
+&lt;li>&lt;strong>Clepsydra&lt;/strong>, from Charles is Greek for water clock.&lt;/li>
+&lt;li>&lt;strong>Chronourcleftis&lt;/strong>, from Ron which sorta means “thief of time” in Greek.&lt;/li>
+&lt;li>&lt;strong>Clog Uisce,&lt;/strong> from Boyd, which is Irish Gaelic for water clock.&lt;/li>
+&lt;li>&lt;strong>Immoria&lt;/strong>, from Preston.&lt;/li>
+&lt;/ul>
+&lt;p>And the winner of the poll was&amp;hellip; &lt;strong>Immoria!&lt;/strong>&lt;/p>
+&lt;p>Looking forward to building out the city of Immoria together.&lt;/p></description><author>Indie RPG Newsletter</author><guid>/2022/12/29/setup-names/</guid><pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate></item><item><title>Setup: Starting Adjectives</title><link>/2022/12/21/setup-starting-adjectives/</link><description>&lt;p>For the first step of our &lt;em>i&amp;rsquo;m sorry did you say street magic&lt;/em>, I asked folks to submit adjectives that will define our city.&lt;/p>
+&lt;p>The game&amp;rsquo;s rules say we need 3 adjectives - just enough to give us a sense of our city without it becoming a straitjacket. We want to discover the city as we play.&lt;/p>
+&lt;p>But we received more than 40 submissions! So I see my job as sieving through these submissions, seeing the emergent patterns, and picking the 3 adjectives that I think are most inspiring when combined together.&lt;/p>
+&lt;p>What patterns did I see? People are seeing a city that is ancient, crumbling, eroding, maybe even sundered or inundated. They&amp;rsquo;re seeing a city that is vertical, looming, labryinthine. They&amp;rsquo;re seeing a city that is stratified but dense, vibrant, colourful, proud, beautiful. They&amp;rsquo;re seeing something interdimensional, artificial, technomagical. Maybe its sustainable, solar, growing, or potentially alive. They&amp;rsquo;re seeing a city that is hidden or snowbound. They&amp;rsquo;re seeing a city that is under threat - besieged or occuppied or teetering on the edge of some other disaster.&lt;/p>
+&lt;p>This is a lot - and a city can be all of these things. And if you want to channel any of these adjectives, please go ahead. But for the purpose of clarity, here&amp;rsquo;s the three adjectives and the pitch for the city:&lt;/p>
+&lt;p>It is &lt;strong>stratified&lt;/strong>, &lt;strong>clockwork&lt;/strong> and &lt;strong>canaled&lt;/strong>.&lt;/p>
+&lt;p>What does this mean?&lt;/p>
+&lt;p>Imagine that when people say time is a river, they mean it literally. Imagine the river of time was routed into canals that spread through a great city. Imagine this city as tall, built upon layers and layers of different communities and neighbourhoods. Imagine these canals entered the city at the very top and then slipped and flowed all the way down through the city&amp;rsquo;s many layers until it escaped and found its way into the sea of chaos. The river of time brings odd gifts and sometimes even odder things wash up on the shores of chaos. Some say the city is a giant water clock. But people who live there just call it home.&lt;/p>
+&lt;p>Here are the full list of adjectives:&lt;/p>
+&lt;ul>
+&lt;li>Stratified&lt;/li>
+&lt;li>Occupied&lt;/li>
+&lt;li>Canaled&lt;/li>
+&lt;li>Crumbling&lt;/li>
+&lt;li>Hidden&lt;/li>
+&lt;li>Looming&lt;/li>
+&lt;li>Clockwork&lt;/li>
+&lt;li>Sundered&lt;/li>
+&lt;li>Teetering&lt;/li>
+&lt;li>Proud&lt;/li>
+&lt;li>Ancient&lt;/li>
+&lt;li>Labryinthe&lt;/li>
+&lt;li>Snowbound&lt;/li>
+&lt;li>Deep-space&lt;/li>
+&lt;li>Exotic&lt;/li>
+&lt;li>Dense&lt;/li>
+&lt;li>Vibrant&lt;/li>
+&lt;li>Academic&lt;/li>
+&lt;li>Interdimensional&lt;/li>
+&lt;li>Ethereal&lt;/li>
+&lt;li>Growing&lt;/li>
+&lt;li>Artificial&lt;/li>
+&lt;li>Solar&lt;/li>
+&lt;li>Alive&lt;/li>
+&lt;li>Vertical&lt;/li>
+&lt;li>Odoriferous&lt;/li>
+&lt;li>Colourful&lt;/li>
+&lt;li>Nostalgic&lt;/li>
+&lt;li>Technomagical&lt;/li>
+&lt;li>Polluted&lt;/li>
+&lt;li>Empyreal&lt;/li>
+&lt;li>Eroding&lt;/li>
+&lt;li>Anemoia&lt;/li>
+&lt;li>Besieged&lt;/li>
+&lt;li>Overshadowed&lt;/li>
+&lt;li>Secular&lt;/li>
+&lt;li>Elegiac&lt;/li>
+&lt;li>Inundated&lt;/li>
+&lt;li>Beautiful&lt;/li>
+&lt;li>Sutainable&lt;/li>
+&lt;/ul></description><author>Indie RPG Newsletter</author><guid>/2022/12/21/setup-starting-adjectives/</guid><pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate></item></channel></rss>
